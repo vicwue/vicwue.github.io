@@ -1,0 +1,313 @@
+{
+    "version": "1.0",
+    "encoding": "UTF-8",
+    "feed": {
+        "xmlns": "http://www.w3.org/2005/Atom",
+        "xmlns$openSearch": "http://a9.com/-/spec/opensearchrss/1.0/",
+        "xmlns$gphoto": "http://schemas.google.com/photos/2007",
+        "xmlns$media": "http://search.yahoo.com/mrss/",
+        "id": {
+            "$t": "https://picasaweb.google.com/data/feed/api/user/108915720136277708231"
+        },
+        "updated": {
+            "$t": "2017-07-19T04:05:43.827Z"
+        },
+        "category": [
+            {
+                "scheme": "http://schemas.google.com/g/2005#kind",
+                "term": "http://schemas.google.com/photos/2007#user"
+            }
+        ],
+        "title": {
+            "$t": "108915720136277708231",
+            "type": "text"
+        },
+        "subtitle": {
+            "$t": "",
+            "type": "text"
+        },
+        "icon": {
+            "$t": "https://lh3.googleusercontent.com/-U_Ci5uzVWs0/AAAAAAAAAAI/AAAAAAAAAAA/ZJz2xXJ8nfc/s64-c/108915720136277708231.jpg"
+        },
+        "link": [
+            {
+                "rel": "http://schemas.google.com/g/2005#feed",
+                "type": "application/atom+xml",
+                "href": "https://picasaweb.google.com/data/feed/api/user/108915720136277708231?alt=json"
+            },
+            {
+                "rel": "alternate",
+                "type": "text/html",
+                "href": "https://picasaweb.google.com/108915720136277708231"
+            },
+            {
+                "rel": "http://schemas.google.com/photos/2007#slideshow",
+                "type": "application/x-shockwave-flash",
+                "href": "https://photos.gstatic.com/media/slideshow.swf?host=picasaweb.google.com&RGB=0x000000&feed=https://picasaweb.google.com/data/feed/api/user/108915720136277708231?alt%3Drss"
+            },
+            {
+                "rel": "self",
+                "type": "application/atom+xml",
+                "href": "https://picasaweb.google.com/data/feed/api/user/108915720136277708231?alt=json&start-index=1&max-results=1000"
+            }
+        ],
+        "author": [
+            {
+                "name": {
+                    "$t": "Vic Wü"
+                },
+                "uri": {
+                    "$t": "https://picasaweb.google.com/108915720136277708231"
+                }
+            }
+        ],
+        "generator": {
+            "$t": "Picasaweb",
+            "version": "1.00",
+            "uri": "http://picasaweb.google.com/"
+        },
+        "openSearch$totalResults": {
+            "$t": 2
+        },
+        "openSearch$startIndex": {
+            "$t": 1
+        },
+        "openSearch$itemsPerPage": {
+            "$t": 1000
+        },
+        "gphoto$user": {
+            "$t": "108915720136277708231"
+        },
+        "gphoto$nickname": {
+            "$t": "Vic Wü"
+        },
+        "gphoto$thumbnail": {
+            "$t": "https://lh3.googleusercontent.com/-U_Ci5uzVWs0/AAAAAAAAAAI/AAAAAAAAAAA/ZJz2xXJ8nfc/s64-c/108915720136277708231.jpg"
+        },
+        "entry": [
+            {
+                "id": {
+                    "$t": "https://picasaweb.google.com/data/entry/api/user/108915720136277708231/albumid/5628480785580268225?alt=json"
+                },
+                "published": {
+                    "$t": "2015-11-20T17:04:50.000Z"
+                },
+                "updated": {
+                    "$t": "2015-11-23T22:27:55.459Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://schemas.google.com/photos/2007#album"
+                    }
+                ],
+                "title": {
+                    "$t": "Profilfotos",
+                    "type": "text"
+                },
+                "summary": {
+                    "$t": "Album für Profilfotos",
+                    "type": "text"
+                },
+                "rights": {
+                    "$t": "public",
+                    "type": "text"
+                },
+                "link": [
+                    {
+                        "rel": "http://schemas.google.com/g/2005#feed",
+                        "type": "application/atom+xml",
+                        "href": "https://picasaweb.google.com/data/feed/api/user/108915720136277708231/albumid/5628480785580268225?alt=json"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://picasaweb.google.com/108915720136277708231/ProfilePhotos"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://picasaweb.google.com/data/entry/api/user/108915720136277708231/albumid/5628480785580268225?alt=json"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Vic Wü"
+                        },
+                        "uri": {
+                            "$t": "https://picasaweb.google.com/108915720136277708231"
+                        }
+                    }
+                ],
+                "gphoto$id": {
+                    "$t": "5628480785580268225"
+                },
+                "gphoto$name": {
+                    "$t": "ProfilePhotos"
+                },
+                "gphoto$location": {
+                    "$t": ""
+                },
+                "gphoto$access": {
+                    "$t": "public"
+                },
+                "gphoto$timestamp": {
+                    "$t": "1448039090000"
+                },
+                "gphoto$numphotos": {
+                    "$t": 2
+                },
+                "gphoto$user": {
+                    "$t": "108915720136277708231"
+                },
+                "gphoto$nickname": {
+                    "$t": "Vic Wü"
+                },
+                "gphoto$albumType": {
+                    "$t": "ProfilePhotos"
+                },
+                "media$group": {
+                    "media$content": [
+                        {
+                            "url": "https://lh3.googleusercontent.com/-18UGQAGDOKw/ThxhdBmfmsE/AAAAAAAAn4A/C-TArsYcM3Y4R5mkV3DnPKAn4XVFAeEXwCHMYCg/ProfilePhotos",
+                            "type": "image/jpeg",
+                            "medium": "image"
+                        }
+                    ],
+                    "media$credit": [
+                        {
+                            "$t": "Vic Wü"
+                        }
+                    ],
+                    "media$description": {
+                        "$t": "",
+                        "type": "plain"
+                    },
+                    "media$keywords": {},
+                    "media$thumbnail": [
+                        {
+                            "url": "https://lh3.googleusercontent.com/-18UGQAGDOKw/ThxhdBmfmsE/AAAAAAAAn4A/C-TArsYcM3Y4R5mkV3DnPKAn4XVFAeEXwCHMYCg/s160-c/ProfilePhotos",
+                            "height": 160,
+                            "width": 160
+                        }
+                    ],
+                    "media$title": {
+                        "$t": "Profilfotos",
+                        "type": "plain"
+                    }
+                }
+            },
+            {
+                "id": {
+                    "$t": "https://picasaweb.google.com/data/entry/api/user/108915720136277708231/albumid/5628478825785005537?alt=json"
+                },
+                "published": {
+                    "$t": "2011-07-06T07:00:00.000Z"
+                },
+                "updated": {
+                    "$t": "2013-05-11T06:35:22.190Z"
+                },
+                "category": [
+                    {
+                        "scheme": "http://schemas.google.com/g/2005#kind",
+                        "term": "http://schemas.google.com/photos/2007#album"
+                    }
+                ],
+                "title": {
+                    "$t": "Auf den Dächern der Heimat ...",
+                    "type": "text"
+                },
+                "summary": {
+                    "$t": "",
+                    "type": "text"
+                },
+                "rights": {
+                    "$t": "public",
+                    "type": "text"
+                },
+                "link": [
+                    {
+                        "rel": "http://schemas.google.com/g/2005#feed",
+                        "type": "application/atom+xml",
+                        "href": "https://picasaweb.google.com/data/feed/api/user/108915720136277708231/albumid/5628478825785005537?alt=json"
+                    },
+                    {
+                        "rel": "alternate",
+                        "type": "text/html",
+                        "href": "https://picasaweb.google.com/108915720136277708231/AufDenDachernDerHeimat"
+                    },
+                    {
+                        "rel": "self",
+                        "type": "application/atom+xml",
+                        "href": "https://picasaweb.google.com/data/entry/api/user/108915720136277708231/albumid/5628478825785005537?alt=json"
+                    }
+                ],
+                "author": [
+                    {
+                        "name": {
+                            "$t": "Vic Wü"
+                        },
+                        "uri": {
+                            "$t": "https://picasaweb.google.com/108915720136277708231"
+                        }
+                    }
+                ],
+                "gphoto$id": {
+                    "$t": "5628478825785005537"
+                },
+                "gphoto$name": {
+                    "$t": "AufDenDachernDerHeimat"
+                },
+                "gphoto$location": {
+                    "$t": ""
+                },
+                "gphoto$access": {
+                    "$t": "public"
+                },
+                "gphoto$timestamp": {
+                    "$t": "1309935600000"
+                },
+                "gphoto$numphotos": {
+                    "$t": 5
+                },
+                "gphoto$user": {
+                    "$t": "108915720136277708231"
+                },
+                "gphoto$nickname": {
+                    "$t": "Vic Wü"
+                },
+                "media$group": {
+                    "media$content": [
+                        {
+                            "url": "https://lh3.googleusercontent.com/-4DE6Ic9rXME/Thxfq8y5FeE/AAAAAAAABGU/E-NVm_kOnjE4H9RxbpBmVv7_sevZIR-xQCHMYCg/AufDenDachernDerHeimat",
+                            "type": "image/jpeg",
+                            "medium": "image"
+                        }
+                    ],
+                    "media$credit": [
+                        {
+                            "$t": "Vic Wü"
+                        }
+                    ],
+                    "media$description": {
+                        "$t": "",
+                        "type": "plain"
+                    },
+                    "media$keywords": {},
+                    "media$thumbnail": [
+                        {
+                            "url": "https://lh3.googleusercontent.com/-4DE6Ic9rXME/Thxfq8y5FeE/AAAAAAAABGU/E-NVm_kOnjE4H9RxbpBmVv7_sevZIR-xQCHMYCg/s160-c/AufDenDachernDerHeimat",
+                            "height": 160,
+                            "width": 160
+                        }
+                    ],
+                    "media$title": {
+                        "$t": "Auf den Dächern der Heimat ...",
+                        "type": "plain"
+                    }
+                }
+            }
+        ]
+    }
+}

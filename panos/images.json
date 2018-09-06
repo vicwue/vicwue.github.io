@@ -1,1 +1,268 @@
-{"images":[{"path":"IMG_6978.JPG","gpsraw":{"GPSLatitudeRef":"S","GPSLatitude":[36,40,54.39],"GPSLongitudeRef":"E","GPSLongitude":[175,32,51],"GPSAltitudeRef":0,"GPSAltitude":1.2135619641465316,"GPSTimeStamp":[6,51,15.06],"GPSSpeedRef":"K","GPSSpeed":0,"GPSImgDirectionRef":"T","GPSImgDirection":198.69042769857433,"GPSDestBearingRef":"T","GPSDestBearing":198.69042769857433,"GPSDateStamp":"2017:02:04","GPSHPositioningError":10},"position":"175.54749999999999;-36.681774999999995;1.2135619641465316"},{"path":"IMG_6989.JPG","gpsraw":{"GPSLatitudeRef":"S","GPSLatitude":[36,50,0.41],"GPSLongitudeRef":"E","GPSLongitude":[175,47,55.56],"GPSAltitudeRef":0,"GPSAltitude":67.6436170212766,"GPSTimeStamp":[3,46,59.94],"GPSSpeedRef":"K","GPSSpeed":0.35,"GPSImgDirectionRef":"T","GPSImgDirection":148.0672268907563,"GPSDestBearingRef":"T","GPSDestBearing":148.0672268907563,"GPSDateStamp":"2017:02:05","GPSHPositioningError":5},"position":"175.79876666666667;-36.833447222222226;67.6436170212766"},{"path":"IMG_8579.JPG","gpsraw":{"GPSLatitudeRef":"S","GPSLatitude":[40,54,12.85],"GPSLongitudeRef":"E","GPSLongitude":[176,13,36.45],"GPSAltitudeRef":0,"GPSAltitude":7.780458383594692,"GPSTimeStamp":[4,37,1],"GPSSpeedRef":"K","GPSSpeed":0,"GPSImgDirectionRef":"T","GPSImgDirection":79.78061224489795,"GPSDestBearingRef":"T","GPSDestBearing":79.78061224489795,"GPSDateStamp":"2017:05:09","GPSHPositioningError":5},"position":"176.22679166666666;-40.90356944444444;7.780458383594692"},{"path":"pano1.JPG","gpsraw":{"GPSLatitudeRef":"S","GPSLatitude":[36,29,1.4],"GPSLongitudeRef":"E","GPSLongitude":[175,20,30.91],"GPSAltitudeRef":1,"GPSAltitude":2.5462645647703908,"GPSTimeStamp":[21,26,40.07],"GPSSpeedRef":"K","GPSSpeed":0,"GPSImgDirectionRef":"T","GPSImgDirection":349.2661870503597,"GPSDestBearingRef":"T","GPSDestBearing":349.2661870503597,"GPSDateStamp":"2016:10:17","GPSHPositioningError":5},"position":"175.34191944444444;-36.48372222222223;2.5462645647703908"},{"path":"IMG_7736.JPG","gpsraw":{"GPSLatitudeRef":"S","GPSLatitude":[38,9,47.85],"GPSLongitudeRef":"E","GPSLongitude":[175,39,25.3],"GPSAltitudeRef":0,"GPSAltitude":107.73325213154689,"GPSTimeStamp":[21,38,28],"GPSSpeedRef":"K","GPSSpeed":0.55,"GPSImgDirectionRef":"T","GPSImgDirection":161.1726618705036,"GPSDestBearingRef":"T","GPSDestBearing":161.1726618705036,"GPSDateStamp":"2017:04:07","GPSHPositioningError":5},"position":"175.65702777777778;-38.163291666666666;107.73325213154689"},{"path":"pano2.JPG","gpsraw":{"GPSLatitudeRef":"S","GPSLatitude":[36,28,17.61],"GPSLongitudeRef":"E","GPSLongitude":[175,22,19.18],"GPSAltitudeRef":0,"GPSAltitude":131.08056872037915,"GPSTimeStamp":[23,48,48],"GPSSpeedRef":"K","GPSSpeed":0,"GPSImgDirectionRef":"T","GPSImgDirection":259.3542600896861,"GPSDestBearingRef":"T","GPSDestBearing":259.3542600896861,"GPSDateStamp":"2016:10:17","GPSHPositioningError":5},"position":"175.37199444444445;-36.471558333333334;131.08056872037915"},{"path":"pano4.JPG","gpsraw":{"GPSLatitudeRef":"S","GPSLatitude":[36,50,29.52],"GPSLongitudeRef":"E","GPSLongitude":[174,46,3.61],"GPSAltitudeRef":0,"GPSAltitude":8.430114787305875,"GPSTimeStamp":[23,21,52],"GPSSpeedRef":"K","GPSSpeed":0,"GPSImgDirectionRef":"T","GPSImgDirection":325.0964467005076,"GPSDestBearingRef":"T","GPSDestBearing":325.0964467005076,"GPSDateStamp":"2016:10:03","GPSHPositioningError":5},"position":"174.76766944444446;-36.84153333333334;8.430114787305875"},{"path":"pano3.JPG","gpsraw":{"GPSLatitudeRef":"S","GPSLatitude":[36,28,50.28],"GPSLongitudeRef":"E","GPSLongitude":[175,24,25.25],"GPSAltitudeRef":0,"GPSAltitude":101.37243401759531,"GPSTimeStamp":[0,34,59],"GPSSpeedRef":"K","GPSSpeed":0,"GPSImgDirectionRef":"T","GPSImgDirection":37.110047846889955,"GPSDestBearingRef":"T","GPSDestBearing":37.110047846889955,"GPSDateStamp":"2016:10:18","GPSHPositioningError":5},"position":"175.40701388888888;-36.48063333333334;101.37243401759531"}]}
+{
+    "images": [
+        {
+            "path": "IMG_6978.JPG",
+            "gpsraw": {
+                "GPSLatitudeRef": "S",
+                "GPSLatitude": [
+                    36,
+                    40,
+                    54.39
+                ],
+                "GPSLongitudeRef": "E",
+                "GPSLongitude": [
+                    175,
+                    32,
+                    51
+                ],
+                "GPSAltitudeRef": 0,
+                "GPSAltitude": 1.2135619641465316,
+                "GPSTimeStamp": [
+                    6,
+                    51,
+                    15.06
+                ],
+                "GPSSpeedRef": "K",
+                "GPSSpeed": 0,
+                "GPSImgDirectionRef": "T",
+                "GPSImgDirection": 198.69042769857433,
+                "GPSDestBearingRef": "T",
+                "GPSDestBearing": 198.69042769857433,
+                "GPSDateStamp": "2017:02:04",
+                "GPSHPositioningError": 10
+            },
+            "position": "175.54749999999999;-36.681774999999995;1.2135619641465316"
+        },
+        {
+            "path": "IMG_6989.JPG",
+            "gpsraw": {
+                "GPSLatitudeRef": "S",
+                "GPSLatitude": [
+                    36,
+                    50,
+                    0.41
+                ],
+                "GPSLongitudeRef": "E",
+                "GPSLongitude": [
+                    175,
+                    47,
+                    55.56
+                ],
+                "GPSAltitudeRef": 0,
+                "GPSAltitude": 67.6436170212766,
+                "GPSTimeStamp": [
+                    3,
+                    46,
+                    59.94
+                ],
+                "GPSSpeedRef": "K",
+                "GPSSpeed": 0.35,
+                "GPSImgDirectionRef": "T",
+                "GPSImgDirection": 148.0672268907563,
+                "GPSDestBearingRef": "T",
+                "GPSDestBearing": 148.0672268907563,
+                "GPSDateStamp": "2017:02:05",
+                "GPSHPositioningError": 5
+            },
+            "position": "175.79876666666667;-36.833447222222226;67.6436170212766"
+        },
+        {
+            "path": "IMG_8579.JPG",
+            "gpsraw": {
+                "GPSLatitudeRef": "S",
+                "GPSLatitude": [
+                    40,
+                    54,
+                    12.85
+                ],
+                "GPSLongitudeRef": "E",
+                "GPSLongitude": [
+                    176,
+                    13,
+                    36.45
+                ],
+                "GPSAltitudeRef": 0,
+                "GPSAltitude": 7.780458383594692,
+                "GPSTimeStamp": [
+                    4,
+                    37,
+                    1
+                ],
+                "GPSSpeedRef": "K",
+                "GPSSpeed": 0,
+                "GPSImgDirectionRef": "T",
+                "GPSImgDirection": 79.78061224489795,
+                "GPSDestBearingRef": "T",
+                "GPSDestBearing": 79.78061224489795,
+                "GPSDateStamp": "2017:05:09",
+                "GPSHPositioningError": 5
+            },
+            "position": "176.22679166666666;-40.90356944444444;7.780458383594692"
+        },
+        {
+            "path": "pano1.JPG",
+            "gpsraw": {
+                "GPSLatitudeRef": "S",
+                "GPSLatitude": [
+                    36,
+                    29,
+                    1.4
+                ],
+                "GPSLongitudeRef": "E",
+                "GPSLongitude": [
+                    175,
+                    20,
+                    30.91
+                ],
+                "GPSAltitudeRef": 1,
+                "GPSAltitude": 2.5462645647703908,
+                "GPSTimeStamp": [
+                    21,
+                    26,
+                    40.07
+                ],
+                "GPSSpeedRef": "K",
+                "GPSSpeed": 0,
+                "GPSImgDirectionRef": "T",
+                "GPSImgDirection": 349.2661870503597,
+                "GPSDestBearingRef": "T",
+                "GPSDestBearing": 349.2661870503597,
+                "GPSDateStamp": "2016:10:17",
+                "GPSHPositioningError": 5
+            },
+            "position": "175.34191944444444;-36.48372222222223;2.5462645647703908"
+        },
+        {
+            "path": "IMG_7736.JPG",
+            "gpsraw": {
+                "GPSLatitudeRef": "S",
+                "GPSLatitude": [
+                    38,
+                    9,
+                    47.85
+                ],
+                "GPSLongitudeRef": "E",
+                "GPSLongitude": [
+                    175,
+                    39,
+                    25.3
+                ],
+                "GPSAltitudeRef": 0,
+                "GPSAltitude": 107.73325213154689,
+                "GPSTimeStamp": [
+                    21,
+                    38,
+                    28
+                ],
+                "GPSSpeedRef": "K",
+                "GPSSpeed": 0.55,
+                "GPSImgDirectionRef": "T",
+                "GPSImgDirection": 161.1726618705036,
+                "GPSDestBearingRef": "T",
+                "GPSDestBearing": 161.1726618705036,
+                "GPSDateStamp": "2017:04:07",
+                "GPSHPositioningError": 5
+            },
+            "position": "175.65702777777778;-38.163291666666666;107.73325213154689"
+        },
+        {
+            "path": "pano2.JPG",
+            "gpsraw": {
+                "GPSLatitudeRef": "S",
+                "GPSLatitude": [
+                    36,
+                    28,
+                    17.61
+                ],
+                "GPSLongitudeRef": "E",
+                "GPSLongitude": [
+                    175,
+                    22,
+                    19.18
+                ],
+                "GPSAltitudeRef": 0,
+                "GPSAltitude": 131.08056872037915,
+                "GPSTimeStamp": [
+                    23,
+                    48,
+                    48
+                ],
+                "GPSSpeedRef": "K",
+                "GPSSpeed": 0,
+                "GPSImgDirectionRef": "T",
+                "GPSImgDirection": 259.3542600896861,
+                "GPSDestBearingRef": "T",
+                "GPSDestBearing": 259.3542600896861,
+                "GPSDateStamp": "2016:10:17",
+                "GPSHPositioningError": 5
+            },
+            "position": "175.37199444444445;-36.471558333333334;131.08056872037915"
+        },
+        {
+            "path": "pano4.JPG",
+            "gpsraw": {
+                "GPSLatitudeRef": "S",
+                "GPSLatitude": [
+                    36,
+                    50,
+                    29.52
+                ],
+                "GPSLongitudeRef": "E",
+                "GPSLongitude": [
+                    174,
+                    46,
+                    3.61
+                ],
+                "GPSAltitudeRef": 0,
+                "GPSAltitude": 8.430114787305875,
+                "GPSTimeStamp": [
+                    23,
+                    21,
+                    52
+                ],
+                "GPSSpeedRef": "K",
+                "GPSSpeed": 0,
+                "GPSImgDirectionRef": "T",
+                "GPSImgDirection": 325.0964467005076,
+                "GPSDestBearingRef": "T",
+                "GPSDestBearing": 325.0964467005076,
+                "GPSDateStamp": "2016:10:03",
+                "GPSHPositioningError": 5
+            },
+            "position": "174.76766944444446;-36.84153333333334;8.430114787305875"
+        },
+        {
+            "path": "pano3.JPG",
+            "gpsraw": {
+                "GPSLatitudeRef": "S",
+                "GPSLatitude": [
+                    36,
+                    28,
+                    50.28
+                ],
+                "GPSLongitudeRef": "E",
+                "GPSLongitude": [
+                    175,
+                    24,
+                    25.25
+                ],
+                "GPSAltitudeRef": 0,
+                "GPSAltitude": 101.37243401759531,
+                "GPSTimeStamp": [
+                    0,
+                    34,
+                    59
+                ],
+                "GPSSpeedRef": "K",
+                "GPSSpeed": 0,
+                "GPSImgDirectionRef": "T",
+                "GPSImgDirection": 37.110047846889955,
+                "GPSDestBearingRef": "T",
+                "GPSDestBearing": 37.110047846889955,
+                "GPSDateStamp": "2016:10:18",
+                "GPSHPositioningError": 5
+            },
+            "position": "175.40701388888888;-36.48063333333334;101.37243401759531"
+        }
+    ]
+}
