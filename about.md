@@ -10,9 +10,9 @@ all the ways to contact me
 
 <div class="split thirds">
 <div>
-        <img alt="Victor" src="/assets/personal/ar.jpg" />
+        <img alt="Victor" src="/assets/personal/ar.JPG" />
         </div><div>
-        <img alt="Victor" src="/assets/personal/vr.jpg" />
+        <img alt="Victor" src="/assets/personal/vr.JPG" />
         </div><div>
         <img alt="Victor" src="/assets/personal/vr2.png" />
         </div>
@@ -23,11 +23,11 @@ all the ways to contact me
 # Creative past
 <div class="split thirds">
 <div>
-        <img alt="Victor" src="/assets/personal/vic1.jpg" />
+        <img alt="Victor" src="/assets/personal/vic1.JPG" />
         </div><div>
-        <img alt="Victor" src="/assets/personal/vic2.jpg" />
+        <img alt="Victor" src="/assets/personal/vic2.JPG" />
         </div><div>
-        <img alt="Victor" src="/assets/personal/vic3.jpg" />
+        <img alt="Victor" src="/assets/personal/vic3.JPG" />
         </div>
 
 
