@@ -1,0 +1,162 @@
+---
+---
+@import "minima";
+
+
+.categorypill {
+  color:#fff;
+  border-radius: 3px;
+  background-color: rgb(19, 140, 99);
+  font-size: 12px;
+  padding: 3px;
+  display: inline-block;
+  text-decoration: none;  
+}
+.categorypill:visited {
+  color:#fff;
+  background-color: rgb(18, 126, 90);
+  text-decoration: none;  
+
+}
+
+.categorypill:hover {
+  color:#fff;
+  background-color: rgb(26, 161, 116);
+  text-decoration: none;  
+
+}
+.categorypill:active {
+  color:#fff;
+  background-color: rgb(19, 140, 99);
+  text-decoration: none;  
+
+}
+.categorypill:focus {
+  color:#fff;
+  background-color: rgb(19, 140, 99);
+  text-decoration: none;  
+
+}
+
+
+.split .title-heading {
+  font-size: 13px;
+}
+
+.card {
+  background-color: #fefefe;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
+}
+
+.image img {
+  width: 200px;
+  
+}
+
+.split.half > div {
+  width:40%;
+  margin:4%;
+}
+.split.thirds > div {
+  width:30%;
+  margin:2%;
+}
+.split.thirds > span {
+  
+  margin:2%;
+}
+.split.thirds > img {
+  width:30%;
+  margin:2%;
+}
+.split {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: stretch;
+  align-content: flex-start;
+}
+
+
+
+.split div {
+  display: block;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: auto;
+  align-self: auto;
+  order: 0;
+}
+
+
+.button-cta {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  display: block;
+  text-align: center;
+  margin: 10px auto;
+}
+.button-cta:hover {
+  background-color: #0056b3;
+  color: #fff;
+
+}
+.button-cta:active {
+  background-color: #0056b3;
+  color: #fff;
+
+}
+.button-cta:focus {
+  background-color: #0056b3;
+  color: #fff;
+
+}
+.button-cta:visited {
+  background-color: #0056b3;
+  color: #fff;
+
+}
+.button-cta:focus-visible {
+  background-color: #0056b3;
+  color: #fff;
+
+}
+
+.secondary-cta {
+  display: inline-block;
+  
+  color: #0054d1;
+  
+  
+  text-decoration: none;
+  
+  font-size: 16px;
+  margin: 10px auto;
+}
+.secondary-cta:hover {
+  
+  color: #0054d1;
+}
+.secondary-cta:active {
+  background-color: none;
+  color: #0054d1;
+}
+.secondary-cta:focus {
+  background-color: none;
+  color: #0054d1;
+}
+.secondary-cta:visited {
+  background-color: none;
+  color: #0054d1;
+}
+.secondary-cta:focus-visible {
+  background-color: none;
+  color: #0054d1;
+}

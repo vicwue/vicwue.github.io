@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Career Overview"
+categories: career
+
+---
+<!--more-->
+
+| Company     | Role Synopsis                         | Dates                  |
+|------------|----------------------------------------|------------------------|
+| **PowerStats** | Chief Product Officer                  | 2024 – 2025           |
+| **Xplor**      | Product Manager (senior level)         | Mar 2024 – current    |
+|            | Senior Product Owner                   | Jan 2024 – Feb 2024   |
+| **Micado**     | Product Owner/Team Lead                | Jun 2021 – Dec 2021   |
+|            | _Vacation turned lockdown, turned into remote working from New Zealand_ | _Mar 2020_ |
+| **SAP**        | Product Manager, Germany (remote NZ)   | 2019 – 2021           |
+|            | Project Lead AI/ML                     | 2018                  |
+||Product Manager 3D, Germany| Nov 2017 - 2018 |
+|            | _Return and relocation to Germany (end of assignment)_ | _Nov 2017_     |
+|            | Product Owner (assignment 18 months, New Zealand) | 2016 – 2017  |
+|            | Intern Trainee → Developer → Senior Developer (Germany) | 2009 – 2016 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
