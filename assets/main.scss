@@ -48,7 +48,42 @@
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
   margin-bottom: 20px;
+  
 }
+
+.listofcards .card {
+  cursor: pointer;
+  padding: 20px;
+  margin: 10px;
+}
+
+
+.listofcards .card:hover {
+  transform: scale(0.99,0.99);
+  
+  transition: transform 0.1s ease-in;
+}
+
+.listofcards {
+  background-color: #efefef;
+  padding:10px 0;
+}
+.listofcards .card h4 {
+  font-weight: 400;
+}
+.listofcards .card .role {
+
+}
+.listofcards .card .title {
+
+}
+
+.listofcards .card .location {
+
+}
+
+
+
 
 .image img {
   width: 200px;
@@ -91,7 +126,16 @@
   order: 0;
 }
 
-
+/* Split image effect for hero section 
+.herosplit {
+  overflow: hidden;
+}
+.herosplit > img:first-child {
+  transform: scale(0.5) translate3d(-10%, -15%, 0);
+}
+.herosplit > img:last-child {
+  transform: scale(0.5) translate3d(+10%, +15%, 0);
+}*/
 .button-cta {
   background-color: #007bff;
   color: #fff;
@@ -159,4 +203,8 @@
 .secondary-cta:focus-visible {
   background-color: none;
   color: #0054d1;
+}
+
+.site-header {
+  border-top: none;
 }

@@ -21,7 +21,7 @@ layout: default
         <p>I offer my experience in Product Leadership to tech companies in New Zealand</p>
       </div>
         <a href="https://calendly.com/vicwue/quickchat" class="button-cta">Book a chat on my calendar!</a>
-        <a href="services" class="secondary-cta">Or check out my services here</a>
+        <!--<a href="services" class="secondary-cta">Or check out my services here</a>-->
         
     </div>
 
@@ -30,7 +30,7 @@ layout: default
 
 
       <div class="title-image">
-        <img alt="" src="/assets/casual.mirrored.png">
+        <img alt="" src="/assets/smile.victor.jpg">
       </div>
 </div>
 <div class="split thirds">

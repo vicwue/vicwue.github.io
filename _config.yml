@@ -19,11 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Victor's Portfolio
+author: Victor Wündisch
 email: vicwue@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio pages of Victor Wuendisch
+  Portfolio pages of Victor Wündisch
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vicwue.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+assets: "http://localhost:4000/assets/" # the base hostname & protocol for your assets, e.g. http://localhost:4000
 
 twitter_username: vicwue
 github_username:  vicwue
