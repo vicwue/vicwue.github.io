@@ -1,11 +1,12 @@
 ---
 layout: default
 ---
-<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post h-entry row" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+  <header class="post-header col-12 col-md-6 col-lg-6">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <div class="herosplit" style="max-width: 800px;">
+    <div class="pictures">
+      
       <img src="../../../{{page.thumbnail}}" />
       <img src="../../../{{page.ui}}" />
     </div>
@@ -19,7 +20,8 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-  <div class="post-content e-content" itemprop="articleBody">
+  <div class="col-12 col-md-6 col-lg-6 post-content e-content" itemprop="articleBody">
+    <h4><span class="role">{{ page.role }} </span>/<span class="company"> {{ page.company }} </span> / <span class="location"> {{ page.location }} </span></h4>
     {{ content }}
   </div>
 

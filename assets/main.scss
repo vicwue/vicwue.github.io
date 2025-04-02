@@ -2,61 +2,126 @@
 ---
 @import "minima";
 
+.navbar-collapse {
+  background-color: #fff;
+}
 
 .categorypill {
   color:#fff;
   border-radius: 3px;
   background-color: rgb(19, 140, 99);
-  font-size: 12px;
-  padding: 3px;
+  font-size: 20px;
+  padding: 3px 10px;
   display: inline-block;
   text-decoration: none;  
+  margin-top: 2px;
+  
+  &:visited,&:focus,&:active,&:hover {
+    color:#fff;
+    text-decoration: none;  
+  }
+  &:visited {
+    
+    background-color: rgb(18, 126, 90);
+  }
+  &:hover {
+    background-color: rgb(26, 161, 116);
+  
+  }
+  &:active,&:focus {
+    background-color: rgb(19, 140, 99);
+  }
 }
-.categorypill:visited {
-  color:#fff;
-  background-color: rgb(18, 126, 90);
-  text-decoration: none;  
+.categorypill.product {
+  background-color: rgb(186, 107, 16);
 
+  &:visited {
+    
+    background-color:rgb(186, 107, 16);
+  }
+  &:hover {
+    background-color: rgb(214, 134, 43);
+  
+  }
+  &:active,&:focus {
+    background-color: rgb(186, 107, 16);
+  }
+  
+}
+.categorypill.marketing {
+
+  background-color:   rgb(234, 25, 171);
+  &:visited {
+      
+    background-color:   rgb(215, 20, 157);
+  }
+  &:hover {
+    background-color:   rgb(232, 112, 196);
+
+  }
+  &:active,&:focus {
+    background-color:   rgb(211, 22, 154);
+  }
+}
+.categorypill.strategy {
+
+  background-color:   rgb(25, 119, 234);
+  &:visited {
+      
+    background-color:   rgb(20, 104, 207);  }
+  &:hover {
+    background-color:   rgb(56, 141, 244);
+  }
+  &:active,&:focus {
+    background-color:   rgb(18, 102, 204);  }
 }
 
-.categorypill:hover {
-  color:#fff;
-  background-color: rgb(26, 161, 116);
-  text-decoration: none;  
+.categorypill.discovery {
 
-}
-.categorypill:active {
-  color:#fff;
-  background-color: rgb(19, 140, 99);
-  text-decoration: none;  
-
-}
-.categorypill:focus {
-  color:#fff;
-  background-color: rgb(19, 140, 99);
-  text-decoration: none;  
-
+  background-color:   rgb(255, 222, 4);
+  &:visited {
+      
+    background-color:   rgb(255, 222, 4);
+    }
+  &:hover {
+    background-color:   rgb(255, 238, 126);
+  }
+  &:active,&:focus {
+    background-color:   rgb(255, 222, 4);
+    }
 }
 
-
+.list-product {
+  background-color:   rgba(186, 107, 16,0.1);
+}
+.list-marketing {
+  background-color:   rgba(234, 25, 171, 0.1);
+}
+.list-strategy {
+  background-color:   rgba(25, 119, 234,0.1);
+}
+.list-discovery {
+  background-color:   rgba(255, 222, 4,0.1);
+}
 .split .title-heading {
   font-size: 13px;
 }
 
-.card {
-  background-color: #fefefe;
-  border-radius: 5px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  margin-bottom: 20px;
-  
-}
+
 
 .listofcards .card {
   cursor: pointer;
   padding: 20px;
-  margin: 10px;
-}
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 20px;
 
+}
+.post-title {
+  margin-bottom: 5px;
+}
+.dt-published {
+  margin-top: 5px;
+}
 
 .listofcards .card:hover {
   transform: scale(0.99,0.99);
@@ -65,8 +130,9 @@
 }
 
 .listofcards {
-  background-color: #efefef;
+  border-radius: 6px;
   padding:10px 0;
+  margin-bottom: 20px;
 }
 .listofcards .card h4 {
   font-weight: 400;
@@ -82,8 +148,27 @@
 
 }
 
-
-
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    max-width: 1200px;
+  }
+}
+.hero.card {
+}
+.landingpage {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.landingpage h2 {
+  margin-top: 16px;
+}
+.landingpage img {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.hero.card>*{
+ margin:4%;
+}
 
 .image img {
   width: 200px;
