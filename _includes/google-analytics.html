@@ -6,4 +6,26 @@
   gtag('js', new Date());
 
   gtag('config', 'G-XCXKENXJCT');
+  gtag('event', 'init', {
+  'app_name': 'Vics page',
+  'screen_name': 'Home'
+  });
+
+  window.addEventListener("popstate", (event) => {
+    alert(
+      `location: ${document.location}, state: ${JSON.stringify(event.state)}`,
+    );
+  });
+  function navigateTo( url ) {
+    history.pushState({ page: url }, '', url);
+    gtag('event', 'page_view', {
+      'page_title': document.title,
+      'page_location': document.location.href,
+      'page_path': url
+    });
+    window.location.replace('url');
+  }   
+  
 </script>
+
+{% seo %}

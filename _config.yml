@@ -36,10 +36,11 @@ minima:
   show_excerpts: true
 excerpt_separator: <!--more-->
 google_analytics: true
-
+# https://mademistakes.com/mastering-jekyll/how-to-link/
 
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
