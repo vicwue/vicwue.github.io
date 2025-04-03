@@ -2,8 +2,41 @@
 ---
 @import "minima";
 
-.navbar-collapse {
+a.btn { color: #fff; text-decoration: none; }
+a.btn:visited { color: #fff; }
+a:hover {/* color: #111; */ text-decoration: initial; }
+
+.navbar {
   background-color: #fff;
+}
+
+.card ul, .card ol {
+  margin-left: initial;
+}
+
+
+.ribbon.ribbon-top .ribbon-label {
+  top: 0;
+  transform: translateX(-15px) translateY(-4px);
+  border-bottom-right-radius: .475rem;
+  border-bottom-left-radius: .475rem;
+}
+.ribbon-vertical .ribbon-label {
+  padding: 5px 10px;
+  min-width: 36px;
+  min-height: 46px;
+  text-align: center;
+}
+.ribbon .ribbon-label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px 10px;
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  right: 0;
+  transform: translateX(5px) translateY(-50%);
 }
 
 .categorypill {
@@ -93,15 +126,19 @@
 
 .list-product {
   background-color:   rgba(186, 107, 16,0.1);
+  border: 1px solid rgb(186, 107, 16);
 }
 .list-marketing {
   background-color:   rgba(234, 25, 171, 0.1);
+  border: 1px solid rgb(234, 25, 171);
 }
 .list-strategy {
   background-color:   rgba(25, 119, 234,0.1);
+  border: 1px solid rgb(25, 119, 234);
 }
 .list-discovery {
   background-color:   rgba(255, 222, 4,0.1);
+  border: 1px solid rgb(255, 222, 4);
 }
 .split .title-heading {
   font-size: 13px;
@@ -111,10 +148,13 @@
 
 .listofcards .card {
   cursor: pointer;
-  padding: 20px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-  margin-bottom: 20px;
 
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+
+
+}
+.card.bg-warning-light {
+background-color: rgba(var(--bs-warning-rgb), 0.1);
 }
 .post-title {
   margin-bottom: 5px;

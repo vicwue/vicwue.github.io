@@ -8,7 +8,7 @@
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     
 
-    <nav class="navbar fixed-top navbar-expand-lg">
+    <nav class="navbar fixed-top navbar-expand-lg ">
         <div class="container-fluid">
           <a class="navbar-brand" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
         
@@ -18,8 +18,8 @@
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <div class="collapse navbar-collapse" id="navbarText">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+      <div class="collapse navbar-collapse  justify-content-end" id="navbarText">
+        <ul class="navbar-nav nav mb-2 mb-lg-0">
             {%- for path in page_paths -%}
                 {%- assign my_page = site.pages | where: "path", path | first -%}
                 {%- if my_page.title -%}
@@ -29,7 +29,7 @@
             {%- endif -%}
           {%- endfor -%}
            
-        </ul>
+          </ul>
         </div>
     
 
