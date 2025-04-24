@@ -11,11 +11,7 @@
   'screen_name': 'Home'
   });
 
-  window.addEventListener("popstate", (event) => {
-    alert(
-      `location: ${document.location}, state: ${JSON.stringify(event.state)}`,
-    );
-  });
+
   function navigateTo( url ) {
     history.pushState({ page: url }, '', url);
     gtag('event', 'page_view', {
